@@ -1,8 +1,8 @@
 // Dashboard.js
 import React from 'react';
-import FoodPreferences from './FoodPreferences';
-import OrderHistory from './OrderHistory';
-import MoneyBalance from './MoneyBalance';
+import FoodPreferences from './FoodPreferences.js';
+import OrderHistory from './OrderHistory.js';
+import MoneyBalance from './MoneyBalance.js';
 
 const Dashboard = () =>
 {
